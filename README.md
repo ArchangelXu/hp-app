@@ -4,5 +4,4 @@
 
 ![qr_code](https://raw.githubusercontent.com/ArchangelXu/hp-app/master/apk_url.png)
 
-### ps.首页右上角两个图标加了点小彩蛋
 
